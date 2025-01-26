@@ -1,1 +1,1 @@
-J'ai essayé de mettre une autre page comme page principale, mais que ce soit à l'aide de la vidéo ou avec les différentes ressources sur internet, je n'ai pas réussi à comprendre d'où venait le problème.
+J'ai essayé de mettre une autre page comme page principale, mais que ce soit à l'aide de la vidéo dans les ressources ou avec les différentes ressources sur internet que j'ai pu trouver, je n'ai pas réussi à comprendre d'où venait le problème.
