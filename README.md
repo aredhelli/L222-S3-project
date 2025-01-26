@@ -1,1 +1,1 @@
-# L222-S3-project
+J'ai essayé de mettre une autre page comme page principale, mais que ce soit à l'aide de la vidéo ou avec les différentes ressources sur internet, je n'ai pas réussi à comprendre d'où venait le problème.
